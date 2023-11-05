@@ -61,3 +61,10 @@ C:\Users\doga_\RiderProjects\LoginPanel\LoginPanel\bin\Debug\net7.0\runtimes\win
 C:\Users\doga_\RiderProjects\LoginPanel\LoginPanel\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\doga_\RiderProjects\LoginPanel\LoginPanel\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\doga_\RiderProjects\LoginPanel\LoginPanel\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\doga_\RiderProjects\LoginPanel\LoginPanel\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\doga_\RiderProjects\LoginPanel\LoginPanel\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\doga_\RiderProjects\LoginPanel\LoginPanel\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\doga_\RiderProjects\LoginPanel\LoginPanel\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\doga_\RiderProjects\LoginPanel\LoginPanel\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\doga_\RiderProjects\LoginPanel\LoginPanel\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\doga_\RiderProjects\LoginPanel\LoginPanel\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
